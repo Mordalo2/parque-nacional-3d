@@ -1,0 +1,5 @@
+Pon aquí el polígono del Parque Nacional exportado desde QGIS:
+  nombre: parque_nacional.geojson
+  formato: GeoJSON
+  SRC: EPSG:4326 (WGS 84)
+Si este archivo no existe, la página dibuja el límite tomado de OpenStreetMap.

@@ -1,0 +1,4 @@
+Pon aquí los modelos 3D en formato .glb (ej.: M06_OlayaHerrera.glb) y luego,
+en index.html, busca "var MODELOS" y escribe la ruta, por ejemplo:
+  6:'modelos/M06_OlayaHerrera.glb'
+Recomendado: 100 000 - 300 000 triángulos, textura 2048-4096 px, compresión Draco, < 15 MB.
